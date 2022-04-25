@@ -1,0 +1,11 @@
+p {
+  padding: 25px;
+  font-size: 50px;
+}
+
+div {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding: 20px;
+}
