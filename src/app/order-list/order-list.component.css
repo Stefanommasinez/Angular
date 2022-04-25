@@ -1,0 +1,12 @@
+section {
+  background: #e0d5e6;
+  padding: 10px;
+  margin: 10px;
+  border: solid 1px #9d76a5;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}

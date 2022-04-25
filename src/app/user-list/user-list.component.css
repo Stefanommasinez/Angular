@@ -1,0 +1,13 @@
+section {
+  background: #d4e8d3;
+  border: solid 1px #85b576;
+  height: 600px;
+  width: 350px;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 10px;
+}

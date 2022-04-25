@@ -1,0 +1,12 @@
+section {
+  background: #b8c6d2;
+  border: solid 1px #1c455e;
+  margin: 10px;
+  height: 150px;
+}
+
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
