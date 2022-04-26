@@ -1,1 +1,6 @@
-<app-user-single *ngFor="let user of users; index as i" [index]="i" [user]="user"></app-user-single>
+<app-user-single
+  *ngFor="let user of users; index as i"
+  [index]="i"
+  [user]="user"
+  (remove)="removeitem($event)">
+</app-user-single>
